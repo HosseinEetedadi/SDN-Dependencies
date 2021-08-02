@@ -11,7 +11,6 @@ https://github.com/HosseinEetedadi/SDN-Dependencies/blob/main/ryu_installation.s
 
 
 
-
 also you can use ryu app and UI with commands that comes in below link : 
 
 
